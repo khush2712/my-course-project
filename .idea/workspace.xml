@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f25441e4-5bba-495d-844c-ecbad4d0916a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/.idea/angular-course-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/my-course-project/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-course-project/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/.idea/course-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-detail/recipe-detail.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-detail/recipe-detail.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-start/recipe-start.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-start/recipe-start.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-start/recipe-start.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipes.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipes.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipes.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/shopping-list/shopping-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/shopping-list/shopping-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/shopping-list/shopping-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/dropdown.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/ingredient.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-edit/shopping-edit.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qOn9BoPIzakKD8IZKgw3AVDAeh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\khusk\projects\my-course-project\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (my-course-project)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (my-course-project)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f25441e4-5bba-495d-844c-ecbad4d0916a" name="Default Changelist" comment="" />
+      <created>1616959350483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616959350483</updated>
+      <workItem from="1616959352462" duration="1639000" />
+      <workItem from="1616961022752" duration="1818000" />
+      <workItem from="1616962871429" duration="1793000" />
+      <workItem from="1616964693413" duration="1782000" />
+      <workItem from="1616966504882" duration="1407000" />
+      <workItem from="1617219588458" duration="1374000" />
+      <workItem from="1617346403124" duration="167000" />
+      <workItem from="1617890188901" duration="613000" />
+      <workItem from="1617893528172" duration="596000" />
+      <workItem from="1617894322536" duration="65000" />
+      <workItem from="1619338731513" duration="6029000" />
+      <workItem from="1619362247711" duration="619000" />
+      <workItem from="1619517774188" duration="65000" />
+      <workItem from="1619878099706" duration="7339000" />
+      <workItem from="1619964600900" duration="2859000" />
+      <workItem from="1620133355904" duration="11999000" />
+      <workItem from="1620228158089" duration="7166000" />
+      <workItem from="1620387325413" duration="6886000" />
+      <workItem from="1620508602704" duration="8274000" />
+      <workItem from="1620516974870" duration="1505000" />
+      <workItem from="1620569018271" duration="635000" />
+      <workItem from="1620731527298" duration="596000" />
+      <workItem from="1620740950051" duration="162000" />
+      <workItem from="1621004930464" duration="1741000" />
+      <workItem from="1621006723971" duration="680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="89" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="121" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
